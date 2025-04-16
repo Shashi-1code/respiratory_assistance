@@ -1,0 +1,201 @@
+age,gender,fever,cough,shortness_of_breath,chest_pain,fatigue,voice_pitch,diagnosis
+77,M,no,wet,yes,yes,yes,low,COVID-19
+52,M,no,dry,yes,yes,no,low,Asthma
+53,M,no,wet,no,yes,no,normal,Common Cold
+29,F,no,wet,yes,yes,yes,low,Asthma
+32,M,yes,dry,no,yes,no,normal,Common Cold
+76,M,no,dry,yes,yes,yes,high,Asthma
+75,M,no,wet,no,no,yes,low,Healthy
+58,M,yes,wet,yes,yes,no,low,Bronchitis
+75,F,no,wet,yes,no,yes,high,Bronchitis
+67,F,yes,wet,no,no,yes,normal,Bronchitis
+52,M,yes,none,no,no,no,low,Common Cold
+58,F,no,wet,yes,no,yes,low,Bronchitis
+66,F,no,dry,yes,no,yes,normal,Bronchitis
+44,F,yes,none,no,no,no,high,Healthy
+20,F,no,wet,no,yes,no,high,Asthma
+75,F,yes,dry,yes,yes,no,low,Asthma
+61,F,yes,wet,no,yes,no,low,Bronchitis
+49,F,yes,none,yes,no,yes,normal,COVID-19
+36,F,no,wet,no,no,yes,normal,Pneumonia
+69,M,no,dry,yes,yes,yes,low,Asthma
+53,F,yes,dry,yes,no,yes,high,Pneumonia
+71,M,no,wet,no,no,no,low,Bronchitis
+67,M,yes,dry,no,yes,yes,normal,Common Cold
+26,F,no,wet,yes,yes,no,low,Asthma
+37,F,no,wet,yes,no,no,normal,Bronchitis
+61,M,yes,dry,yes,no,yes,low,Asthma
+65,F,no,wet,no,no,yes,low,Asthma
+80,M,yes,dry,no,yes,yes,normal,Common Cold
+43,M,no,wet,yes,yes,no,low,COVID-19
+70,M,yes,wet,yes,no,yes,normal,Bronchitis
+66,F,no,none,no,no,yes,low,Bronchitis
+64,F,no,dry,no,no,no,low,Asthma
+18,M,no,none,yes,yes,no,low,Pneumonia
+63,M,no,wet,yes,no,yes,high,Healthy
+47,F,no,wet,yes,no,yes,normal,Bronchitis
+40,F,yes,dry,no,no,no,high,Common Cold
+20,F,yes,none,yes,no,no,low,Asthma
+59,F,no,none,yes,no,yes,low,Bronchitis
+22,F,yes,dry,no,yes,yes,normal,Common Cold
+61,M,no,none,no,no,yes,low,Healthy
+43,F,yes,none,yes,no,no,high,Pneumonia
+75,F,yes,dry,no,no,yes,high,Common Cold
+79,F,no,wet,yes,yes,no,low,Healthy
+75,M,yes,dry,no,yes,yes,low,Asthma
+44,F,no,none,no,yes,no,normal,Bronchitis
+50,M,no,dry,yes,no,yes,low,Asthma
+28,M,yes,wet,yes,yes,no,low,Bronchitis
+18,M,yes,wet,no,no,yes,normal,Bronchitis
+49,M,no,none,no,yes,no,low,Bronchitis
+43,M,no,wet,no,no,no,normal,Common Cold
+60,M,yes,none,no,no,yes,normal,Pneumonia
+58,F,yes,wet,no,no,yes,normal,Bronchitis
+52,M,no,none,no,no,no,low,Healthy
+20,F,yes,dry,no,yes,no,normal,Common Cold
+76,M,yes,wet,no,yes,yes,low,Bronchitis
+45,M,no,none,yes,no,no,low,Common Cold
+35,M,yes,none,yes,no,no,low,Common Cold
+61,M,yes,wet,yes,yes,yes,high,COVID-19
+53,F,yes,dry,no,no,no,normal,Common Cold
+64,F,yes,dry,yes,no,yes,high,COVID-19
+39,M,yes,none,no,yes,yes,normal,Healthy
+48,M,no,dry,yes,yes,yes,high,Common Cold
+53,M,no,wet,yes,no,yes,low,COVID-19
+51,F,yes,dry,yes,no,no,normal,Common Cold
+68,F,no,wet,no,yes,no,normal,Bronchitis
+51,M,no,dry,yes,yes,yes,low,Asthma
+78,F,yes,wet,yes,no,yes,low,Bronchitis
+47,M,no,dry,no,no,no,low,Asthma
+28,F,yes,dry,no,yes,no,low,Asthma
+71,M,no,wet,yes,no,no,low,Bronchitis
+21,M,no,none,yes,yes,yes,high,Pneumonia
+32,F,yes,none,yes,no,yes,high,Asthma
+63,M,yes,none,yes,no,no,high,Healthy
+25,M,yes,dry,yes,no,no,low,Asthma
+72,M,no,none,no,yes,no,high,COVID-19
+40,F,no,none,yes,yes,no,high,COVID-19
+28,M,yes,wet,yes,yes,no,high,Pneumonia
+37,F,no,none,yes,yes,no,normal,Asthma
+73,M,yes,dry,yes,yes,yes,normal,Common Cold
+47,F,no,wet,no,no,no,normal,Pneumonia
+35,M,no,dry,yes,yes,no,normal,COVID-19
+80,F,no,wet,no,no,yes,low,Healthy
+70,M,no,none,no,yes,yes,normal,COVID-19
+29,M,no,wet,yes,no,yes,low,Bronchitis
+46,M,yes,wet,no,no,yes,high,Bronchitis
+48,M,no,none,no,no,yes,normal,Asthma
+56,M,yes,dry,yes,no,yes,high,COVID-19
+60,M,no,none,yes,yes,yes,normal,Common Cold
+57,F,no,dry,no,no,yes,normal,Pneumonia
+27,F,no,dry,yes,no,yes,high,Common Cold
+20,F,yes,none,yes,yes,yes,normal,Bronchitis
+56,M,yes,none,no,no,no,normal,Healthy
+35,M,no,none,no,no,yes,normal,Common Cold
+52,F,yes,wet,no,no,no,high,Bronchitis
+46,M,yes,wet,yes,no,yes,high,COVID-19
+33,F,yes,none,yes,no,no,normal,Pneumonia
+35,M,no,none,no,no,yes,normal,Asthma
+57,F,yes,dry,no,no,no,low,Asthma
+61,M,yes,none,yes,no,yes,high,Healthy
+80,M,no,none,yes,yes,no,normal,Asthma
+58,F,no,none,yes,no,yes,high,Common Cold
+44,M,yes,none,no,yes,yes,high,Common Cold
+43,M,no,wet,yes,yes,no,normal,Common Cold
+61,F,yes,wet,no,no,yes,normal,Bronchitis
+36,M,yes,none,yes,yes,no,normal,Common Cold
+47,M,no,wet,yes,yes,yes,high,COVID-19
+51,F,no,none,no,no,yes,high,Bronchitis
+45,M,yes,dry,yes,yes,yes,low,Asthma
+47,M,no,none,no,yes,no,high,Pneumonia
+23,F,no,wet,no,yes,no,low,COVID-19
+62,F,no,none,no,yes,no,normal,Healthy
+67,M,no,dry,no,yes,no,normal,Healthy
+70,M,no,dry,yes,no,no,normal,COVID-19
+37,M,no,dry,yes,no,yes,normal,Pneumonia
+68,F,yes,dry,no,no,no,normal,Common Cold
+26,F,yes,dry,yes,yes,yes,high,Pneumonia
+68,F,no,dry,yes,no,no,high,Common Cold
+46,M,yes,wet,no,no,yes,normal,Bronchitis
+25,M,no,wet,yes,yes,yes,high,Healthy
+34,M,no,none,yes,no,no,high,Asthma
+44,F,no,dry,no,no,no,normal,Asthma
+36,M,yes,none,no,no,no,normal,Pneumonia
+48,M,no,none,no,yes,yes,normal,Bronchitis
+30,M,yes,none,yes,yes,no,normal,Pneumonia
+48,F,no,wet,no,yes,no,high,Pneumonia
+50,M,no,none,no,yes,no,low,Pneumonia
+67,F,yes,dry,yes,yes,no,low,Asthma
+21,M,yes,none,yes,no,no,normal,Bronchitis
+62,F,yes,none,no,yes,no,low,Asthma
+37,M,no,wet,yes,yes,no,normal,Bronchitis
+48,F,no,none,no,no,yes,high,COVID-19
+65,M,no,wet,no,yes,no,low,Common Cold
+48,M,no,wet,yes,no,no,low,Common Cold
+71,M,no,none,yes,no,no,high,Pneumonia
+29,M,no,wet,yes,no,yes,high,Pneumonia
+49,M,yes,dry,no,no,yes,low,Asthma
+74,F,yes,dry,no,no,yes,normal,Common Cold
+22,M,yes,none,yes,no,yes,normal,Asthma
+78,M,no,none,no,no,yes,normal,Bronchitis
+48,M,no,wet,yes,no,no,normal,Common Cold
+33,M,yes,wet,no,yes,yes,high,Bronchitis
+60,F,yes,none,no,yes,yes,low,Healthy
+26,M,yes,wet,no,yes,yes,low,Bronchitis
+31,F,yes,none,no,yes,yes,low,Bronchitis
+28,F,no,none,no,no,no,high,Healthy
+21,M,no,wet,no,yes,no,normal,Common Cold
+68,M,yes,dry,no,yes,yes,low,Asthma
+79,F,yes,dry,no,no,no,low,Asthma
+80,F,no,dry,no,yes,no,normal,Healthy
+45,F,no,none,no,no,no,normal,Healthy
+49,F,no,wet,yes,no,no,low,COVID-19
+59,F,yes,none,no,no,yes,normal,Healthy
+32,F,no,wet,yes,no,yes,normal,Asthma
+69,F,no,wet,yes,no,yes,normal,Common Cold
+71,M,yes,dry,no,no,no,normal,Common Cold
+38,M,yes,wet,yes,no,no,high,COVID-19
+40,M,yes,dry,no,yes,yes,normal,Common Cold
+59,M,no,none,yes,no,no,normal,COVID-19
+22,F,no,none,yes,no,no,normal,Pneumonia
+51,M,no,none,yes,no,yes,low,COVID-19
+55,M,no,none,yes,no,yes,high,Common Cold
+56,F,yes,wet,no,yes,yes,high,Bronchitis
+50,M,no,none,yes,yes,no,normal,Asthma
+44,M,no,dry,yes,no,yes,normal,COVID-19
+50,M,no,dry,yes,no,yes,normal,COVID-19
+50,M,no,none,yes,no,no,low,Common Cold
+58,F,yes,dry,no,no,yes,low,Asthma
+51,F,yes,none,no,no,no,normal,COVID-19
+50,M,yes,wet,no,yes,yes,normal,Bronchitis
+43,F,no,wet,no,no,yes,normal,Asthma
+44,F,no,wet,no,yes,no,normal,Common Cold
+66,M,no,none,yes,yes,yes,normal,COVID-19
+62,M,yes,none,yes,yes,no,low,Healthy
+24,F,yes,dry,yes,no,no,high,COVID-19
+19,M,yes,none,yes,yes,yes,normal,Healthy
+33,F,no,none,no,no,yes,high,Common Cold
+22,M,no,dry,yes,no,no,high,Bronchitis
+30,F,no,none,yes,yes,no,high,Healthy
+19,F,no,dry,yes,yes,no,normal,Healthy
+32,M,no,wet,yes,no,yes,high,Healthy
+70,M,no,dry,no,no,yes,normal,COVID-19
+36,M,yes,none,yes,no,no,low,Bronchitis
+28,M,yes,none,no,yes,yes,normal,COVID-19
+40,F,yes,none,no,no,no,low,Bronchitis
+59,M,no,wet,yes,yes,no,low,Common Cold
+21,F,no,none,no,no,yes,normal,Common Cold
+51,M,yes,wet,no,no,no,normal,Bronchitis
+52,F,yes,dry,no,yes,yes,low,Asthma
+60,M,yes,wet,no,yes,no,high,Bronchitis
+68,F,no,wet,yes,yes,yes,high,Healthy
+67,M,no,dry,no,yes,yes,low,Asthma
+20,M,yes,wet,yes,no,no,low,Bronchitis
+49,F,yes,wet,yes,no,yes,high,Pneumonia
+67,M,yes,none,no,no,yes,low,Common Cold
+62,M,no,dry,yes,yes,yes,low,Asthma
+34,M,no,none,yes,yes,yes,normal,Common Cold
+52,M,no,wet,yes,no,no,low,COVID-19
+74,M,no,wet,no,yes,yes,low,Pneumonia
+39,M,yes,wet,no,yes,yes,low,Bronchitis
+44,F,no,dry,yes,yes,no,normal,COVID-19
